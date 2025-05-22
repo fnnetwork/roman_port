@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "POLYTECHNIC DIPLOMA",
+    duration: "2024 - Present",
+    institution: "KK POLYTECHNIC NERO MORE GOVINDPUR DHANBAD",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "ITI",
+    duration: "2022 - 2024",
+    institution: "KK POLYTECHNIC NERO MORE GOVINDPUR DHANBAD",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Higher Secondary Certificate",
+    duration: "2022 - 2024",
+    institution: "Delhi Public School, Vasant Kunj, Delhi",
   }
 ]
